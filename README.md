@@ -35,8 +35,9 @@ The app is currently a work in progress, with plans to integrate MongoDB Realm f
 ## Citations
 
 This project was inspired by the following YouTube videos:
-- [Title of Video 1](https://www.youtube.com/watch?v=b6q9vKaXtoU)
-- [Title of Video 2](https://www.youtube.com/watch?v=5wYZZNwT0sE&t=6222s)
+- [Build a SwiftUI to-do app from scratch with Realm Crash Course
+](https://www.youtube.com/watch?v=b6q9vKaXtoU)
+- [From 0 to Mobile Developer in 2 Hours with Realm and SwiftUI (MongoDB World 2022)](https://www.youtube.com/watch?v=5wYZZNwT0sE&t=6222s)
 
 ## Contributing
 
@@ -44,7 +45,7 @@ We welcome contributions from the community! If you have ideas for new features,
 
 ## Contact
 
-For questions or inquiries, feel free to contact [Your Name](mailto:your@email.com).
+For questions or inquiries, feel free to contact [Rishyendra Medamanuri](rmedamanuri@gmail.com).
 
 ## License
 
